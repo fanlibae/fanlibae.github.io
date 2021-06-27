@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on SaMo&#39;s blog</title>
-    <link>https://fanlibae.github.io/blog/</link>
-    <description>Recent content in blog on SaMo&#39;s blog</description>
+    <title>Book on SaMo&#39;s blog</title>
+    <link>https://fanlibae.github.io/tags/book/</link>
+    <description>Recent content in Book on SaMo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://fanlibae.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 10:23:47 +0600</lastBuildDate><atom:link href="https://fanlibae.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>原則：生活和工作 Principles: Life and Work</title>
       <link>https://fanlibae.github.io/blog/post0628/</link>
@@ -17,15 +17,6 @@
 「如果你像大多數人一樣，不知道別人如何看事情，不善於洞悉別人的想法，那是因為你只想要告訴對方你自己的想法是正確的。換句話說，你專斷獨行，採取封閉的態度；預設立場太多。」「這樣閉門造車會付出極大的代價；它會使你錯過了各種奇妙的可能性，以及別人預見的危險威脅，把具有建設性甚至性命攸關的批評拒於千里之外。」
 「抱持極度開放的態度」，與他人談話時要忘自捨己，以他人的角度去檢視他人所想傳遞予你的訊息，因為當你無法使用開放的態度而是以自己的角度去聆聽他人所闡述的事實，將無法正確接收到別人所想傳遞給你的事實，太過於在乎別人的對與錯，只會令彼此的談話失去溝通的本質，且無法正確達到溝通原有的效益。
 ◎思考並決定（1）你想要什麼，（2）什麼是正確的，（3）如何根據（2）以達到（1）……``</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fanlibae.github.io/blog/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fanlibae.github.io/blog/test2/</guid>
-      <description>print(&amp;#34;hello&amp;#34;); print(&amp;#34;hello&amp;#34;); print(&amp;#34;hello&amp;#34;); print(&amp;#34;hello&amp;#34;); int main(){ print(&amp;#34;Hello!!&amp;#34;); return 0; } </description>
     </item>
     
   </channel>
